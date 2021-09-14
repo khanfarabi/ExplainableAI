@@ -1,0 +1,5 @@
+Review_ID,Truly_Predicted_Class,Original_Text,Explanation,Label1,Label2,Label3
+1,Positive,good basic tons quickly come done felt toast eggs menu place time highly yummy ,eggs good quickly time felt ,1,1,1
+19,Negative,place clearly easier food staff eat directly good cheese will go many place eaten live ,will eat cheese go staff ,0,0,0
+5,Positive,meals family inside chinese price style mis categorized style confused delicious thought translate menu sounds typical think hoping will encourage familiar small complaint handling owner presume etc definitely recommend trying ,will think price family encourage ,1,1,1
+4,Negative,understand location burritos chips thick blob fresh salsa maybe try seems folks street ,street maybe fresh try blob ,1,1,1
