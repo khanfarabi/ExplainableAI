@@ -1,0 +1,100 @@
+0:0:coronaviruspandemic, prime, nation
+1:0:support, deliver, officials, delivered
+2:0:coronavirus, patient, advice, secretary
+3:0:health, person, history, total, positive, cases
+4:0:reports, coronavirus, cases, nursing, outbreak
+5:0:vistara, ground, jets, coronavirus, cases
+6:0:coronavirus, filming, scrapped, global, pandemic
+7:0:people, coronavirus, live, coronavirusoutbreak
+8:0:preparedness, health, visited, international, intervening
+9:0:national, directives, comply, important, unified
+10:0:please, people, measures, prevent, coronavirus
+11:0:cooperation, ongoing, created, global, medical
+12:0:precautionary, measures, biggest, report
+13:0:panic, frontline, coronavirus
+14:0:cancelled, lighter, coronavirusoutbreak
+15:0:union, quarantined, suspected, coronavirus, officials
+16:0:deployed, masks, alcohol, memorial
+17:0:coronavirus, testing, laboratories, hospitals, diagnostic, centres
+18:0:verified, voter, representative
+19:0:reports, rebound, coronavirus, nursing
+20:0:international, commercial, suspended, concessional, travel
+21:0:individuals, stimulus, deliver, officials
+22:0:southern, express, march, poor
+23:0:hairdressers, coronavirus, safety, precautions, genius
+24:0:disinfection, avenue, firefighting, machine
+25:0:support, shelby, deliver, copy, officials
+26:0:schools, friday, remain, closed, notice, tackle, spread, place
+27:0:kingdom, continues, precautionary, measures, coronavirus, pandemic
+28:0:postponed, fear, coronavirus, fresh, announced, health, coronavirusoutbreak
+29:0:hits, slams, coronavirus, advice
+30:0:government, announces, special, package
+31:1:guidelines, protective, measures, coronavirus, detailed, information
+32:0:detained, deliver, officials, delivered
+33:0:support, signing, coronavirus, tests, deliver, officials
+34:0:signing, debt, copy, delivered, senfeinstein
+35:0:support, signing, senate, deliver, officials, delivered
+36:0:united, flag, carrier, cities
+37:0:support, signing, relief
+38:0:employees, lashed, customer, panic, chaos, gripped
+39:0:guidelines, panic, fight, coronavirusoutbreak, coronavirus
+40:0:delivered, verified, voter, write
+41:0:assured, essential, services, affected, imposed, coronavirus
+42:0:coronavirusupdates, suspend, activities, prevent, coronavirus
+43:0:trains, railways, coronavirus
+44:0:speech, coronavirus, outbreak
+45:0:urged, work, home, possible, coronavirus, coronavirusupdate, coronavirusindia
+46:0:coronavirus, facing, chancellor
+47:0:recently, tested, positive, coronavirus, death
+48:0:distancing, reduced, particularly, services
+49:0:coronavirus, survives, study
+50:0:follow, coronavirus
+61:1:students, create, touchless
+86:1:trials, coronavirus, patients, mixed
+120:1:approves, malarial, drug
+121:1:coronavirus, cough, isolate
+125:1:microbiology, dept, shortage, personal, protective, coronavirus
+127:1:suggests, adults, coronavirus, originally
+132:1:reinfected, coronavirus, study, suggests
+153:1:sanitation, prevent, coronavirus
+154:1:science, proper, coronavirus, vaccine
+160:1:origins, scientists, report, coronavirus
+182:1:look, coronavirus
+204:1:scientific, research, efficacy
+230:1:spread, coronavirus, researchers, prominent, patients, outbreak
+231:1:experts, hypothesised, disease, coronavirus
+249:1:immune, covid, pandemic, coronavirus
+255:1:community, transmission, tests, results
+284:1:frequently, sanitiser, remove, viruses, bacteria
+314:1:coronavirus, quarantine
+315:1:sampling, study, transmission, negative, coronavirus, spread
+369:1:feel, test, accurate, fever, asymptomatic
+373:1:issue, guidance, coronavirus, fears
+383:1:coronavirus, viruses, cause, illnesses, diseases
+395:1:facts, symptoms, coronavirus
+401:1:reports, industries, figuring, location, coronavirus
+415:1:scientists, globe, coronavirus
+437:1:follow, washing, coronavirus
+455:1:evidence, transmission, coronavirus
+460:1:follow, washing, coronavirus
+466:1:survival, virus, inactivated
+469:1:vitamin, coronavirus, outbreak
+473:1:research, general, sampling, study, transmission, negative, spread, coronavirus
+481:1:coronavirus, sounds
+482:1:proactive, lesser, coronavirus, issues
+489:1:coronavirus, blood, patients, explains, treatment
+504:1:worsen, strictly, recommended, damage, liver
+527:1:reinfected, coronavirus, study
+532:1:coronavirus, survive, experts
+535:1:sample, returned, died, coronavirus
+556:1:coronavirus, survive, surfaces
+652:1:coronavirus, definite, solution, vaccine, pmmodioncorona
+656:1:comprehensive, resources, practice
+657:1:actions, leaders, immediately, ensure, vital, recommended, health
+658:1:guidance, adult, elective, vital, physicians, preparing, flexibility, pandemic
+659:1:comprehensive, resources, help, prepare, practice, coronavirus
+660:1:managing, containment, mitigation, mean, health
+661:1:effort, health, pandemic, implementation, telemedicine
+662:1:test, health, system, funding
+663:1:preserve, viability, practices, direct, financial, mechanisms
+664:1:activity, hold, risk, complications, conditions
