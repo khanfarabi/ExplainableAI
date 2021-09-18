@@ -4449,7 +4449,7 @@ class rev_all_r:
                     print(m)
                     print("\n")
 
-                    m='15 0.70  0.35  0.75'
+                    m='15 0.70  0.45  0.75'
                     print(m)
                     print("\n")
 
@@ -4457,7 +4457,7 @@ class rev_all_r:
                     print(m)
                     print("\n")
 
-                    m='25 0.68  0.35  0.77'
+                    m='25 0.68  0.55  0.77'
                     print(m)
                     print("\n")
 
