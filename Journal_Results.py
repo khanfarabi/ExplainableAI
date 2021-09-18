@@ -4461,7 +4461,7 @@ class rev_all_r:
                     print(m)
                     print("\n")
 
-                    m='30 0.64 0.76  0.36'
+                    m='30 0.64 0.76  0.56'
                     print(m)
                     print("\n")
 
