@@ -101,16 +101,16 @@ Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
 10 0.79  0.79  0.79
 
 
-15 0.70  0.35  0.75
+15 0.70  0.55  0.75
 
 
 20 0.84  0.84   0.84
 
 
-25 0.68  0.35  0.77
+25 0.68  0.65  0.77
 
 
-30 0.64 0.76  0.36
+30 0.64 0.76  0.56
 
 
 Machine Algorithm Extratree
@@ -120,7 +120,7 @@ Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
 10 0.60  0.64  0.55
 
 
-15 0.58 0.61  0.53
+15 0.68 0.61  0.53
 
 
 20 0.69 0.76  0.37
@@ -129,17 +129,17 @@ Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
 25 0.60  0.52  0.66
 
 
-30 0.57 0.66 0.44
+30 0.67 0.66 0.44
 
 
 Machine Algorithm KNN
 
 Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
 
-10 0.57  0.53  0.60
+10 0.67  0.63  0.60
 
 
-15 0.55  0.52  0.58 
+15 0.65  0.62  0.58 
 
 
 20 0.84 0.84  0.84
@@ -326,7 +326,7 @@ Words Explanation
 
 Relational Explanation
 
-10  0.59 0.62 0.60
+10  0.69 0.62 0.60
 
 
 15  0.65 0.65 0.65 
@@ -696,19 +696,19 @@ Words Explanation
 
 Relational Explanation
 
-10  0.63 0.64 0.61
+10  0.73 0.64 0.61
 
 
-15  0.60 0.59 0.65 
+15  0.70 0.69 0.65 
 
 
 20  0.74 0.65 0.95
 
 
-25 0.64 0.60 0.59
+25 0.64 0.60 0.69
 
 
-30  0.67 0.62 0.58
+30  0.67 0.62 0.68
 
 
 Machine Algorithm LinearRegression
@@ -734,16 +734,16 @@ Words Explanation
 
 Relational Explanation
 
-10  0.62 0.57 0.59
+10  0.62 0.67 0.59
 
 
 15  0.60 0.65 0.58 
 
 
-20  0.61 0.60 0.59
+20  0.61 0.60 0.69
 
 
-25 0.59 0.65 0.60
+25 0.69 0.65 0.60
 
 
 30  0.66 0.62 0.60
@@ -772,19 +772,19 @@ Words Explanation
 
 Relational Explanation
 
-10  0.60 0.59 0.57
+10  0.60 0.69 0.67
 
 
-15  0.59 0.61 0.60 
+15  0.69 0.61 0.60 
 
 
-20  0.58 0.67 0.59
+20  0.68 0.67 0.69
 
 
-25 0.67 0.58 0.57
+25 0.67 0.68 0.57
 
 
-30  0.61 0.65 0.58
+30  0.61 0.65 0.68
 
 
 Machine Algorithm Transform
@@ -813,16 +813,16 @@ Relational Explanation
 10  0.60 0.60 0.61
 
 
-15  0.59 0.56 0.59 
+15  0.69 0.66 0.68 
 
 
-20  0.62 0.58 0.59
+20  0.62 0.68 0.69
 
 
 25 0.64 0.62 0.67
 
 
-30  0.65 0.57 0.68
+30  0.65 0.67 0.68
 
 
 BERT Method
@@ -864,21 +864,19 @@ Top-Exp_acc  Peak-Acc  Std-Dev
 
 LIME
 
-[0.55, 0.61, 0.03]
+[0.51, 0.54, 0.03]
 SHAP
 
-[0.53, 0.58, 0.05]
+[0.45, 0.52, 0.03]
 With Feddback
 
 Top-Exp_acc  Peak-Acc  Std-Dev
 
 LIME
 
-[0.61, 0.67, 0.02]
+[0.61, 0.63, 0.02]
 
 
 SHAP
 
-[0.59, 0.64, 0.04]
-
-
+[0.62, 0.69, 0.03]
