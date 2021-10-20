@@ -1999,15 +1999,15 @@ class lime_relation_feedback:
 from rev_all_r import rev_all_r
 from rev_all_t import rev_all_t
 from rev_all_c import rev_all_c
-L=str(sys.argv[1:])
+L=list(sys.argv[1:])
 
-for v in L:
-    if v=='r':
+#for v in L:
+if L[0]=='review':
         #bb=rev_all_r()
         rev_all_r.reva()
-    elif v=='t':
+elif L[0]=='topic':
         rev_all_t.reva()
-    elif v=='c':
+elif L[0]=='tweet':
         rev_all_c.reva()
         
 
