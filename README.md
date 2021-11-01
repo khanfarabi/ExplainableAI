@@ -19,9 +19,12 @@ In order to check how our embedding based lime generated both relational and non
             
   #  Non-relational explanations
             
-                      
+         
+         
+         
+         
+         ![image](https://user-images.githubusercontent.com/25291998/139725661-425e6c2a-0fc5-4293-801c-a7d2e48c90c7.png)
 
-            ![tp1](https://user-images.githubusercontent.com/25291998/139724610-4cba175a-dfb7-438f-b0c3-19828d934fb8.JPG)
 
             
             
