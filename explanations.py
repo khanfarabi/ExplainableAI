@@ -3067,7 +3067,7 @@ if L[0]=="review":
     print("LIME Method"+"\n")
     cl,lmw,smw,st1,wexpt,wexptf,wexpt1,st,st1,tw,aw=review()
     import time
-    time.sleep(1000)
+    time.sleep(2500)
     f33=open("sentt.txt","w")
     for k in st1:
         s=''
@@ -3277,7 +3277,7 @@ elif L[0]=="topic":
     print("LIME Method"+"\n")
     cl,lmw,smw,st1,wexpt,wexptf,wexpt1,st,st1,tw,aw=topic()  
     import time
-    time.sleep(800)
+    time.sleep(1600)
     f33=open("sentt.txt","w")
     for k in st1:
         s=''
@@ -3486,7 +3486,7 @@ elif L[0]=="tweet":
     print("LIME Method"+"\n")
     cl,lmw,smw,st1,wexpt,wexptf,wexpt1,st,st1,tw,aw=tweet()
     import time
-    time.sleep(600)
+    time.sleep(1400)
     f33=open("sentt.txt","w")
     for k in wexpt:
         s=''
