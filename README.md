@@ -15,7 +15,7 @@ In order to check how our embedding based lime  generated both relational and no
             
             The query 6510 is truly predicted as medicine.
             
-            The non-relational explanations can be visualized as follows:
+            The non_relational explanation will be saved as limetest_up.html file. The non-relational explanations can be visualized as follows:
             
   ![image](https://user-images.githubusercontent.com/25291998/139725737-5e344dc5-c93d-4c7a-9cfb-5897c7c491e1.png)
 
