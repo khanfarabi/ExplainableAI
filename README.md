@@ -2,7 +2,7 @@
 
 # Run The Code:
 
-In order to check how our embedding based lime generated both relational and non-relational explanations, the following command format needs to be executed:
+In order to check how our embedding based lime  generated both relational and non-relational explanations, the following command format needs to be executed:
 
 
             python  explanations.py data query
