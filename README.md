@@ -19,16 +19,22 @@ In order to check how our embedding based lime generated both relational and non
             
   #  Non-relational explanations
             
-            ![image](https://user-images.githubusercontent.com/25291998/139723874-427d22b8-d055-4a0f-af5c-062e9d2124cc.png)
+                      
 
-            
+            ![tp1](https://user-images.githubusercontent.com/25291998/139724610-4cba175a-dfb7-438f-b0c3-19828d934fb8.JPG)
+
             
             The relational explanation in the following describes that the query 6510 is connected to most of the queries that are also in same class medicine, 
             and therefore the sum of weights of these connected quriries is high.
             
    #  Relational explanations  
    
-           ![image](https://user-images.githubusercontent.com/25291998/139723917-2eda46a5-fc6b-4891-9757-cc929d1a3d24.png)
+                        
+           ![tp2](https://user-images.githubusercontent.com/25291998/139724654-b91e8007-3363-4c51-9285-ff63b8a54286.jpeg)
+
+            The relational explanation in the above describes that the query 6510 is connected to most of the queries that are also in same class medicine, 
+            and therefore the sum of weights of these connected quriries is high.
+            
             
 # Packages need to be installed
 
