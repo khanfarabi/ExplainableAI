@@ -18,7 +18,7 @@ In order to check how our embedding based lime generated both relational and non
             The non-relational explanations can be visualized as follows:
             
             
-            ![tp1](https://user-images.githubusercontent.com/25291998/139723201-1f61c89b-837e-43cc-84e9-39cbfd6b929d.JPG)
+            https://user-images.githubusercontent.com/25291998/139723201-1f61c89b-837e-43cc-84e9-39cbfd6b929d.JPG
             
             
             
@@ -27,7 +27,7 @@ In order to check how our embedding based lime generated both relational and non
             
             
             
-            ![tp2](https://user-images.githubusercontent.com/25291998/139723644-5f219fb5-decb-4b2d-a416-83405e1de547.jpeg)
+            https://user-images.githubusercontent.com/25291998/139723644-5f219fb5-decb-4b2d-a416-83405e1de547.jpeg
 
             
 # Packages need to be installed
