@@ -1999,7 +1999,11 @@ class lime_relation_feedback:
 #integrate
 import sys
 def tweet():
-            f2=open("tc.txt")
+            import os 
+            #dir_path = os.path.dirname(os.path.realpath("tc.txt"))
+            #print(dir_path)
+            #f2=open(dir_path+"/"+"rc.txt")
+            f2=open("tweet_class.txt")
 
             cl={}
             for k in f2:
@@ -2016,7 +2020,7 @@ def tweet():
                 else:
                     nsc.append(k)
 
-            f1=open("c_d.txt")
+            f1=open("tweet_evid.txt")
             tw={}
             for k in f1:
                 p=k.strip('\n " "').split("::")
@@ -2028,7 +2032,7 @@ def tweet():
 
 
 
-            f3=open("an.txt")
+            f3=open("tweet_exp.txt")
             aw=[]
             for v in f3:
                 vv=v.strip('\n " "').split("::")
@@ -2208,8 +2212,8 @@ def tweet():
                         s1=s1+lw[k]
                     else:
                         s2=s2+lw[k]
-                vc["s"]=s1
-                vc["ns"]=s2
+                vc["s"]=s1/(s1+s2)
+                vc["ns"]=s2/(s1+s2)
                 lmw[t]=vc
 
 
@@ -2299,8 +2303,8 @@ def tweet():
                         s1=s1+lw[k]
                     else:
                         s2=s2+lw[k]
-                vc["s"]=s1
-                vc["ns"]=s2
+                vc["s"]=s1/(s1+s2)
+                vc["ns"]=s2/(s1+s2)
                 smw[t]=vc
 
 
@@ -2336,7 +2340,12 @@ def tweet():
         
         
 def topic():
-                f2=open("tcc.txt")
+    
+                import os 
+                #dir_path = os.path.dirname(os.path.realpath("tcc.txt"))
+                #print(dir_path)
+                #f2=open(dir_path+"/"+"rc.txt")
+                f2=open("topic_class.txt")
 
                 cl={}
                 for k in f2:
@@ -2353,7 +2362,7 @@ def topic():
                     else:
                         nsc.append(k)
 
-                f1=open("teee.txt")
+                f1=open("topic_evid.txt")
                 tw={}
                 for k in f1:
                     c=0
@@ -2371,7 +2380,7 @@ def topic():
 
 
 
-                f3=open("tan.txt")
+                f3=open("topic_exp.txt")
                 aw=[]
                 for v in f3:
                     vv=v.strip('\n " "').split("::")
@@ -2551,8 +2560,8 @@ def topic():
                             s1=s1+lw[k]
                         else:
                             s2=s2+lw[k]
-                    vc["s"]=s1
-                    vc["ns"]=s2
+                    vc["s"]=s1/(s1+s2)
+                    vc["ns"]=s2/(s1+s2)
                     lmw[t]=vc
 
 
@@ -2642,8 +2651,8 @@ def topic():
                             s1=s1+lw[k]
                         else:
                             s2=s2+lw[k]
-                    vc["s"]=s1
-                    vc["ns"]=s2
+                    vc["s"]=s1/(s1+s2)
+                    vc["ns"]=s2/(s1+s2)
                     smw[t]=vc
 
 
@@ -2686,7 +2695,11 @@ def topic():
 
 
 def review():
-                        f2=open("rc.txt")
+    
+                        import os 
+                        dir_path = os.path.dirname(os.path.realpath("rc.txt"))
+                        #print(dir_path)
+                        f2=open("review_class.txt")
 
                         cl={}
                         for k in f2:
@@ -2703,7 +2716,7 @@ def review():
                             else:
                                 nsc.append(k)
 
-                        f1=open("re.txt")
+                        f1=open("review_evid.txt")
                         tw={}
                         for k in f1:
                             c=0
@@ -2718,10 +2731,23 @@ def review():
                             if int(p[0]) in cl:
                                     tw[int(p[0])]=jj
                         f1.close()
+                        f44=open("review_text.txt",encoding="utf8")
+                        twt={}
+                        for k in f44:
+                            c=0
+                            p=k.strip('\n " "').split("::")
+                            jj=p[1].split()
+                            gh=[]
+                            for zx in jj:
+                                if c<15:
+                                    gh.append(zx)
+                                    c=c+1
+                            #print(p[0],jj)
+                            if int(p[0]) in cl and int(p[0]) in tw:
+                                    twt[int(p[0])]=jj
 
-
-
-                        f3=open("rexp.txt")
+                        f44.close()
+                        f3=open("review_exp.txt")
                         aw=[]
                         for v in f3:
                             vv=v.strip('\n " "').split("::")
@@ -2901,8 +2927,8 @@ def review():
                                     s1=s1+lw[k]
                                 else:
                                     s2=s2+lw[k]
-                            vc["s"]=s1
-                            vc["ns"]=s2
+                            vc["s"]=s1/(s1+s2)
+                            vc["ns"]=s2/(s1+s2)
                             lmw[t]=vc
 
 
@@ -3027,7 +3053,7 @@ def review():
                         
 
                        
-                        return cl,lmw,smw,st1,wexpt,wexptf,wexpt1,st,st1,tw,aw
+                        return cl,lmw,smw,twt,wexpt,wexptf,wexpt1,st,st1,tw,aw
 
                         #sys.exit()
                         '''
@@ -3065,9 +3091,9 @@ L=list(sys.argv[1:])
 import networkx as nx
 if L[0]=="review":
     print("LIME Method"+"\n")
-    cl,lmw,smw,st1,wexpt,wexptf,wexpt1,st,st1,tw,aw=review()
+    cl,lmw,smw,twt,wexpt,wexptf,wexpt1,st,st1,tw,aw=review()
     import time
-    time.sleep(2500)
+    time.sleep(1000)
     f33=open("sentt.txt","w")
     for k in st1:
         s=''
@@ -3234,7 +3260,7 @@ if L[0]=="review":
                 L1=int(L[1])
 
                 s=''
-                for k in  tw[L1]:
+                for k in  twt[L1]:
                     s=s+str(k)+" "
 
                 exp = explainer.explain_instance(s, c.predict_proba, num_features=6)
@@ -3277,7 +3303,7 @@ elif L[0]=="topic":
     print("LIME Method"+"\n")
     cl,lmw,smw,st1,wexpt,wexptf,wexpt1,st,st1,tw,aw=topic()  
     import time
-    time.sleep(1600)
+    time.sleep(800)
     f33=open("sentt.txt","w")
     for k in st1:
         s=''
@@ -3486,7 +3512,7 @@ elif L[0]=="tweet":
     print("LIME Method"+"\n")
     cl,lmw,smw,st1,wexpt,wexptf,wexpt1,st,st1,tw,aw=tweet()
     import time
-    time.sleep(1400)
+    time.sleep(600)
     f33=open("sentt.txt","w")
     for k in wexpt:
         s=''
