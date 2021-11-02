@@ -2,6 +2,9 @@
 
 # Run The Code:
 
+In order to get the overall accuracy results in Explanation_Accuracy folder  for explanation_analysis.py file the following coommands need to be run:
+
+
 python explanation_analysis.py review # To get the all output of SHAP, LIME, and BERT for the Yel Hotel review data
 
 python explanation_analysis.py topic # To get the all output of SHAP, LIME, and BERT for the 20NewsGroup data
@@ -11,7 +14,8 @@ python explanation_analysis.py tweet # To get the all output of SHAP, LIME, and 
 
 
 
-In order to check how our embedding based lime  generated both relational and non-relational explanations, the following command format needs to be executed:
+In order to check how our embedding based lime  generated both relational and non-relational explanations, the following command format needs to be executed
+for explanations.py file in Explanation_visualization folder :
 
 
             python  explanations.py data query
