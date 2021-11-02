@@ -1,0 +1,882 @@
+LIME Method
+
+20NewsGroup Data  Analysis
+
+Non_Relational Explanation Analysis
+
+Without Feedback..
+Machine Algorithm SVM
+
+All Class Accuracy:
+0.3
+Positive Class Accuracy:
+0.3
+Negative Class Accuracy:
+0.29
+
+
+Machine Algorithm Bagging
+
+All Class Accuracy:
+0.29
+Positive Class Accuracy:
+0.32
+Negative Class Accuracy:
+0.27
+
+
+Machine Algorithm Random
+
+All Class Accuracy:
+0.35
+Positive Class Accuracy:
+0.33
+Negative Class Accuracy:
+0.33
+
+
+Machine Algorithm Extratree
+
+All Class Accuracy:
+0.32
+Positive Class Accuracy:
+0.28
+Negative Class Accuracy:
+0.27
+
+
+Machine Algorithm KNN
+
+All Class Accuracy:
+0.3
+Positive Class Accuracy:
+0.25
+Negative Class Accuracy:
+0.19
+
+
+With Feedback..
+Machine Algorithm SVM
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10 0.58 0.54 0.51
+
+
+15 0.59 0.51 0.57
+
+
+20 0.62 0.60 0.65
+
+
+25 0.62 0.72 0.63
+
+
+30 0.63 0.73 0.62
+
+
+Machine Algorithm Bagging
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10 0.55 0.57 0.49
+
+
+15 0.50 0.61 0.47
+
+
+20 0.58 0.63 0.55
+
+
+25 0.64 0.52 0.53
+
+
+30 0.65 0.69 0.52
+
+
+Machine Algorithm RandomForest
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10 0.80  0.78  0.75
+
+
+15 0.77  0.65  0.69
+
+
+20 0.82  0.85   0.74
+
+
+25 0.80  0.75  0.67
+
+
+30 0.84 0.79  0.76
+
+
+Machine Algorithm Extratree
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10 0.52  0.51  0.49
+
+
+15 0.53 0.57  0.48
+
+
+20 0.58 0.56  0.57
+
+
+25 0.61  0.62  0.56
+
+
+30 0.64 0.56 0.49
+
+
+Machine Algorithm KNN
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10 0.51  0.53  0.48
+
+
+15 0.51  0.52  0.53 
+
+
+20 0.64 0.54  0.60
+
+
+25 0.65 0.59 0.64
+
+
+30 0.65 0.72 0.52
+
+
+Relational Explanation Analysis
+
+Without Feedback..
+Machine Algorithm SVM
+
+Words Explanation
+
+All Class Accuracy:
+0.3
+Positive Class Accuracy:
+0.31
+Negative Class Accuracy:
+0.31
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.5
+Positive Class Accuracy:
+0.46
+Negative Class Accuracy:
+0.48
+
+
+Machine Algorithm Bagging
+
+Words Explanation
+
+All Class Accuracy:
+0.29
+Positive Class Accuracy:
+0.28
+Negative Class Accuracy:
+0.24
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.44
+Positive Class Accuracy:
+0.48
+Negative Class Accuracy:
+0.46
+
+
+Machine Algorithm Random
+
+Words Explanation
+
+All Class Accuracy:
+0.33
+Positive Class Accuracy:
+0.26
+Negative Class Accuracy:
+0.28
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.5
+Positive Class Accuracy:
+0.51
+Negative Class Accuracy:
+0.49
+
+
+Machine Algorithm Extratree
+
+Words Explanation
+
+All Class Accuracy:
+0.33
+Positive Class Accuracy:
+0.26
+Negative Class Accuracy:
+0.31
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.49
+Positive Class Accuracy:
+0.43
+Negative Class Accuracy:
+0.44
+
+
+Machine Algorithm KNN
+
+Words Explanation
+
+All Class Accuracy:
+0.3
+Positive Class Accuracy:
+0.25
+Negative Class Accuracy:
+0.23
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.5
+Positive Class Accuracy:
+0.51
+Negative Class Accuracy:
+0.43
+
+
+With Feedback..
+Machine Algorithm SVM
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.47 0.50 0.51
+
+
+15  0.50 0.55 0.54 
+
+
+20  0.54 0.56 0.52
+
+
+25 0.60 0.58 0.59
+
+
+30  0.63 0.55 0.51
+
+
+Relational Explanation
+
+10  0.62 0.60 0.63
+
+
+15  0.62 0.61 0.56 
+
+
+20  0.63 0.69 0.65
+
+
+25 0.70 0.68 0.69
+
+
+30  0.65 0.58 0.58
+
+
+Machine Algorithm Bagging
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.55 0.53 0.54
+
+
+15  0.55 0.59 0.57 
+
+
+20  0.58 0.56 0.52
+
+
+25 0.61 0.61 0.62
+
+
+30  0.63 0.65 0.64
+
+
+Relational Explanation
+
+10  0.61 0.62 0.60
+
+
+15  0.68 0.68 0.63 
+
+
+20  0.59 0.60 0.62
+
+
+25 0.60 0.63 0.62
+
+
+30  0.61 0.68 0.66
+
+
+Machine Algorithm RandomForest
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.57 0.55 0.51
+
+
+15  0.57 0.62 0.53 
+
+
+20  0.56 0.52 0.50
+
+
+25 0.63 0.51 0.52
+
+
+30  0.63 0.57 0.59
+
+
+Relational Explanation
+
+10  0.60 0.59 0.62
+
+
+15  0.64 0.61 0.62 
+
+
+20  0.67 0.69 0.63
+
+
+25 0.67 0.68 0.60
+
+
+30  0.66 0.68 0.58
+
+
+Machine Algorithm Extratree
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.51 0.50 0.55
+
+
+15  0.55 0.53 0.51 
+
+
+20  0.61 0.60 0.61
+
+
+25 0.61 0.57 0.59
+
+
+30  0.62 0.53 0.54
+
+
+Relational Explanation
+
+10  0.65 0.65 0.62
+
+
+15  0.64 0.64 0.64 
+
+
+20  0.68 0.60 0.61
+
+
+25 0.57 0.60 0.62
+
+
+30  0.59 0.62 0.61
+
+
+Machine Algorithm KNN
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.56 0.55 0.55
+
+
+15  0.53 0.54 0.52 
+
+
+20  0.56 0.57 0.55
+
+
+25 0.55 0.60 0.52
+
+
+30  0.60 0.55 0.50
+
+
+Relational Explanation
+
+10  0.65 0.65 0.62
+
+
+15  0.67 0.63 0.59 
+
+
+20  0.67 0.60 0.64
+
+
+25 0.66 0.62 0.60
+
+
+30  0.60 0.61 0.63
+
+
+SHAP Method
+
+Review Data  Analysis
+
+Non_Relational Explanation Analysis
+
+Without Feedback..
+Machine Algorithm LinearSVM
+
+All Class Accuracy:
+0.2
+Positive Class Accuracy:
+0.14
+Negative Class Accuracy:
+0.14
+
+
+Machine Algorithm LinearRegression
+
+All Class Accuracy:
+0.2
+Positive Class Accuracy:
+0.17
+Negative Class Accuracy:
+0.14
+
+
+Machine Algorithm RandomForest
+
+All Class Accuracy:
+0.29
+Positive Class Accuracy:
+0.18
+Negative Class Accuracy:
+0.17
+
+
+Machine Algorithm Transform
+
+All Class Accuracy:
+0.24
+Positive Class Accuracy:
+0.15
+Negative Class Accuracy:
+0.16
+
+
+
+
+With Feedback..
+Machine Algorithm LinearSVM
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10  0.53 0.54 0.51
+
+
+15 0.56 0.52 0.53
+
+
+20 0.59 0.60 0.59
+
+
+25 0.58 0.55 0.52
+
+
+30 0.60 0.53 0.50
+
+
+Machine Algorithm LinearRegression
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10  0.51 0.56 0.61
+
+
+15 0.50 0.52 0.55
+
+
+20 0.52 0.50 0.51
+
+
+25 0.52 0.57 0.52
+
+
+30 0.55 0.50 0.54
+
+
+Machine Algorithm RandomForest
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10  0.61 0.65 0.67
+
+
+15 0.56 0.63 0.50
+
+
+20 0.60 0.56 0.53
+
+
+25 0.62 0.57 0.63
+
+
+30 0.63 0.60 0.54
+
+
+Machine Algorithm Tranform
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+10  0.54 0.58 0.57
+
+
+15 0.60 0.53 0.57
+
+
+20 0.62 0.55 0.51
+
+
+25 0.60 0.57 0.52
+
+
+30 0.61 0.57 0.56
+
+
+Relational Explanation Analysis
+
+Without Feedback..
+Machine Algorithm LinearSVM
+
+Words Explanation
+
+All Class Accuracy:
+0.21
+Positive Class Accuracy:
+0.17
+Negative Class Accuracy:
+0.16
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.43
+Positive Class Accuracy:
+0.4
+Negative Class Accuracy:
+0.38
+
+
+Machine Algorithm LinearRegression
+
+Words Explanation
+
+All Class Accuracy:
+0.2
+Positive Class Accuracy:
+0.14
+Negative Class Accuracy:
+0.14
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.45
+Positive Class Accuracy:
+0.43
+Negative Class Accuracy:
+0.42
+
+
+Machine Algorithm RandomForest
+
+Words Explanation
+
+All Class Accuracy:
+0.18
+Positive Class Accuracy:
+0.16
+Negative Class Accuracy:
+0.17
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.49
+Positive Class Accuracy:
+0.48
+Negative Class Accuracy:
+0.44
+
+
+Machine Algorithm Tranform
+
+Words Explanation
+
+All Class Accuracy:
+0.2
+Positive Class Accuracy:
+0.2
+Negative Class Accuracy:
+0.2
+
+
+Relational Explanation
+
+All Class Accuracy:
+0.41
+Positive Class Accuracy:
+0.43
+Negative Class Accuracy:
+0.42
+
+
+With Feedback..
+Machine Algorithm LinearSVM
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.52 0.54 0.51
+
+
+15  0.53 0.58 0.58 
+
+
+20  0.55 0.52 0.57
+
+
+25 0.62 0.58 0.59
+
+
+30  0.58 0.52 0.63
+
+
+Relational Explanation
+
+10  0.63 0.64 0.61
+
+
+15  0.65 0.63 0.65 
+
+
+20  0.64 0.59 0.59
+
+
+25 0.59 0.60 0.59
+
+
+30  0.63 0.62 0.58
+
+
+Machine Algorithm LinearRegression
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.52 0.53 0.54
+
+
+15  0.52 0.50 0.55 
+
+
+20  0.54 0.53 0.51
+
+
+25 0.54 0.55 0.50
+
+
+30  0.56 0.52 0.51
+
+
+Relational Explanation
+
+10  0.67 0.65 0.64
+
+
+15  0.63 0.65 0.61 
+
+
+20  0.60 0.60 0.63
+
+
+25 0.60 0.65 0.60
+
+
+30  0.61 0.62 0.60
+
+
+Machine Algorithm RandomForest
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.53 0.55 0.61
+
+
+15  0.60 0.65 0.63 
+
+
+20  0.61 0.60 0.52
+
+
+25 0.62 0.69 0.63
+
+
+30  0.63 0.68 0.54
+
+
+Relational Explanation
+
+10  0.62 0.61 0.60
+
+
+15  0.63 0.61 0.60 
+
+
+20  0.59 0.60 0.62
+
+
+25 0.60 0.61 0.67
+
+
+30  0.68 0.66 0.57
+
+
+Machine Algorithm Transform
+
+Cluster:All Class AccuracyPositive Class AccuracyNegative Class Accuracy
+
+Words Explanation
+
+10  0.50 0.50 0.49
+
+
+15  0.54 0.55 0.60 
+
+
+20  0.52 0.55 0.60
+
+
+25 0.57 0.51 0.52
+
+
+30  0.61 0.60 0.61
+
+
+Relational Explanation
+
+10  0.60 0.66 0.63
+
+
+15  0.60 0.61 0.61 
+
+
+20  0.62 0.60 0.59
+
+
+25 0.64 0.62 0.60
+
+
+30  0.69 0.67 0.60
+
+
+BERT Method
+
+Review Data  Analysis
+
+Without Feedback..
+Words Explanation
+
+All Class Accuracy:
+0.52
+Positive Class Accuracy:
+0.56
+Negative Class Accuracy:
+0.5
+With Feedback..
+Words Explanation
+
+10  0.59 0.60 0.61
+
+
+15  0.62 0.70 0.66 
+
+
+20  0.65 0.55 0.60
+
+
+25 0.62 0.60 0.58
+
+
+30  0.63 0.62 0.63
+
+
+Statistical Analysis
+
+Without Feddback
+
+Top-Exp_acc  Peak-Acc  Std-Dev
+
+LIME
+
+[0.55, 0.58, 0.07]
+SHAP
+
+[0.43, 0.54, 0.02]
+With Feddback
+
+Top-Exp_acc  Peak-Acc  Std-Dev
+
+LIME
+
+[0.7, 0.72, 0.04]
+
+
+SHAP
+
+[0.72, 0.77, 0.01]
