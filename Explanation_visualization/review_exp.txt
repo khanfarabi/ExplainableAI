@@ -1,0 +1,945 @@
+0::nice 
+1::efficient happily happy downer 
+2::good punch 
+4::favorite promise randomly split sweet excellent free safe excessive 
+5::recommendation raving disgusting bad mashed nasty ugh cheated 
+6::great issue delicious fantastic 
+8::wow lucky enough right affordable cheap great amazing best 
+9::right worked solid 
+10::delicious gem 
+11::nasty 
+12::good proud clean friendly good favorite 
+13::love worth lacked warm mediocre recommend 
+14::amazing right 
+15::hard great easy good 
+16::hard rivalry loved 
+18::bad 
+19::incredible good waste 
+20::inappropriate better 
+21::better 
+22::variety 
+23::dripping messy nicer 
+24::realistic better best hard better smiles pretty solid softer 
+25::fast bland 
+26::offensively thicker ready 
+27::disappointed blow fun 
+30::pretty tacky pretty ignorance confusing steep bad sunk top overpriced 
+31::knock sorry reputation nice 
+34::flare 
+36::consistently drunk rude idiot issues good 
+37::clearly better fav traumatic traumatic 
+39::pretty nonsense 
+40::decent 
+41::entertaining better solid 
+42::crazy worse 
+43::best best hefty 
+44::clearly nicer great lukewarm hate worth 
+45::warning bright bugs well right best 
+47::tricky 
+48::overrated pretty tough tender 
+51::filth refuse complaint discriminatory right badly problem false proud right enjoyment filthy racist 
+52::better 
+54::hot comfortable ghetto yay likes better 
+55::sweet sweet enough 
+56::favorite 
+57::bad mad nice 
+58::stumbled suitable perfect guilty 
+59::well favorite 
+60::honest great limp best solid great 
+61::willing wonderful 
+62::perfection perfectly tender amazing great great 
+64::fried bother 
+66::pleased 
+67::enjoyed manipulate fried good nice enjoy good cold fine good suitable 
+68::lost good bastard win effusive champion super delicious magic 
+69::good clear 
+70::cheapest hot great hot amazing 
+73::raving terribly hot pretty fine advantage 
+74::nicer missed good 
+75::annoyed sticky 
+77::liked best spacious enough awards recommend 
+79::genius died 
+80::cute warm fried 
+82::incredibly smiles overwhelmed masters perfection 
+83::cozy liked enough wonderful perfect 
+86::good decent classic slow stuck right good affordable good nicely 
+87::lemon great loved 
+88::infamous lemon nicely easy perfectly warm 
+89::love 
+90::patiently right 
+91::love friendly efficient 
+93::better awesome right 
+94::cute delicious fake 
+95::free 
+96::well 
+97::losing 
+98::nicely exquisite quiet civility 
+99::good quiet 
+100::excited annoyingly wicked disappointing love good enjoyed nice annoyingly 
+101::good loves junk great good fat 
+102::better 
+103::pretty good 
+106::knock love well easy 
+107::good better 
+108::complain hot good ruined 
+109::good inexpensive hater variety liked pretty pleased good good pretty decent great better succumb 
+110::disappointed 
+111::willing friendly pride wonderful well love authentic sad glad 
+112::perfect good 
+113::nasty cheap dissapointed 
+114::helpful intimate 
+115::disappointment mistake worse 
+118::best tender wonderful ready work 
+119::great glad 
+120::exquisite 
+126::amazing better goodness regret 
+127::good sweet nice favorite amazing trust best 
+128::recommended right good 
+131::best 
+132::good 
+134::best dignity 
+135::horrible frozen 
+136::amazing fresh damn nice bad 
+137::delicious 
+138::overpriced fun 
+139::disappointed solid good good warning pretty happy romantic great 
+140::pretty good hard great 
+142::bad bothered complain 
+143::great love friendly awesome impressive weak 
+144::loved fav enjoyed great 
+145::great enjoyed enough well 
+146::won interesting 
+147::comfortable ideal well lemon sour compliment fun lemon wonderful worth fun enjoy expensive delicious lack 
+148::weird worth love satisfied 
+149::good hard good hard 
+150::delicious friendly great 
+151::intimate enough recommend 
+152::expensive mashed enjoyed fairly 
+153::bland expensive positive wonder 
+155::love creative 
+156::well 
+157::favorite good love good 
+158::cold attractive loved best attentive recommend 
+160::fantastic cheesy perfect perfectly recommendation impressive 
+161::best fair crazy glad 
+162::good good 
+164::good right warm perfect enough pleased fried 
+166::great fresh bonus mess 
+167::good fairly 
+168::smells loved delicious naive 
+170::memorable good 
+171::well favorite interesting 
+172::super complaint fine enjoyable impress great 
+174::fabulous 
+175::excellent prompt prefer 
+177::loved great rich delicious helpful 
+178::failed good 
+179::great split 
+180::delicious wonderful well wonderful 
+181::nice love sweet great recommend nice 
+182::variety impressive problem outrageous 
+183::friendly thoughtful recommend happy 
+185::loved 
+186::worth helpful excited 
+187::super right good lackluster bad 
+188::wow great zest worth impress worth 
+189::best fried perfect 
+191::hater bland appreciate amazing love sad fried lie 
+192::top strong nice friendly 
+194::good best love 
+195::picky worth helped 
+196::good pig creative excellent fairly reasonable disappointing 
+197::awesome happy 
+198::love fair incredible pretty pretty enough interesting unnaturally top great friendly needless 
+200::incorrect rude afford amazing ridiculous 
+201::right break pig cracked retarded 
+202::better lacked good love 
+203::favorite nicest 
+204::unfortunately awful bad pretty reasonable rant hard 
+205::good funny problem 
+210::good wild mediocre sweet 
+212::best 
+213::wonderful quaint delightful terribly 
+214::die 
+216::slow crappy downhill garbage suck slow disappointment 
+217::garbage overpriced sick great 
+218::damn good right killer 
+219::gorgeously gold nice heavenly attentive well great 
+220::great reasonably heartfelt decline notably good 
+221::disappointed 
+222::lack fresh enjoyed enough 
+223::comfortably flaky loved 
+224::ready propaganda 
+225::limited sweet sour soft 
+226::excited nicely issue great bad clear break 
+227::healthy good 
+229::sweet sweet awkward safely cleanliness 
+230::adventurous nice clearly work 
+232::friendly neat 
+233::avid enjoy works 
+234::free 
+236::recommendation solid reasonably reasonably cons 
+237::nicely improvements attentive 
+238::cold friendly 
+239::pricey great 
+240::good best good 
+241::beautiful best amazing right shady modest 
+243::cool intimate excellent great 
+244::spectacular expertly perfection 
+246::successful best fried fried complimentary great 
+247::loved rich loved 
+248::amazing best 
+249::worth perfection 
+250::hype rich smear interesting bland love bloody preferably excellent solid 
+251::accolades awesome 
+252::sad good flaky hard fantastic 
+254::fried mashed right 
+255::recommend 
+256::great best excellent 
+257::afraid split splitting consistent nice 
+260::delicious 
+261::enjoyed winner good 
+262::miraculously right top drunk delicious tingle good right right sober 
+263::drunk good well heaven sour recommend 
+264::better well 
+266::fried friendly 
+267::beautiful pricey 
+269::delicious worth delicious 
+270::good generous 
+272::utterly 
+273::work hefty recommend 
+274::enjoy golden accessible enjoy 
+275::amazing better 
+276::amazing tender enough solid swanky darker recommend 
+277::rude unfriendly unfortunately sad helped 
+279::delicious better 
+280::right good noisy nice comfortable recommend best 
+281::correctly awesome 
+282::amazing bickering 
+283::disappoints fresh amazing great promptly amazing attentive festive great fun best 
+284::better incredibly great fun 
+285::good stupid famous 
+286::recommend infamous fried lover great 
+287::annoying sexy love 
+288::trendy shadowy dark well bright perfectly good hot super messy 
+290::nice 
+291::nice right likes 
+292::cool hard loud great good fresh promise 
+293::goood dark dark compliment 
+294::deserving 
+295::trust well 
+297::rich incredible good 
+298::hang pretty drunk noise awesome solace well good great good recommend tough support 
+299::messed amazing delicious 
+300::encourage well reasonably great carefree great classic 
+301::uncertain miss 
+302::ready cold fun 
+303::better fast worked 
+304::classic fault wasted love 
+307::cranky smile inconsistent 
+308::best support favorite 
+309::great wonderful 
+310::obstructed memorable willing enjoy 
+311::great recommended delicious good 
+312::great 
+313::fun colorful sick mad 
+314::worse exquisite best worth hell fried incredibly great 
+315::failing love amazed perfectly delicious available 
+316::wonderful love heaven crushed love variety 
+318::recommended 
+319::famous perfect 
+321::disappoint delightful great prompt 
+322::appreciate perfect 
+323::love 
+324::outstanding compliment guilt smiles 
+325::super cool fun great 
+326::enjoy nice 
+327::confession awesome balanced good 
+329::good 
+330::friendly pretty recommend 
+331::hater 
+332::favorite friendly outstanding best 
+335::worst 
+336::super good good friendly 
+337::pretty solid pretty 
+338::twist nice 
+340::better 
+341::celebrate delicious good well 
+343::fast rich well 
+344::good neatly perfect patient helpful 
+345::bug glowing good cool 
+346::holy crap fond great 
+348::ready well interesting 
+350::exceptionally worthy 
+351::hot friendly excellent strong sadly glorious winners best good good 
+353::drunk cheap fat super soft pretty upscale outrageous 
+354::seasoned hang super fatty perfectly faulty 
+355::easy enjoy 
+356::worked heaven delicious 
+357::disagree loud great 
+361::great expensive 
+362::exquisite good ridiculous 
+365::lovely affordable good warm crack better hard cold pretty good 
+366::clearly nice 
+367::pretty strict decent incorrect strange best 
+368::unpleasant bad 
+369::wild warm warm delectable heavenly bomb 
+370::amazing amazing good 
+371::happy cleared 
+372::kill fried reasonable 
+373::worst fucking well scrambled lie 
+374::good better 
+375::right popular soft 
+376::favorite scramble 
+378::love fabulous bloody gold satisfactory better better thank 
+379::stupidly nice soft holy perfection well soft scrambled stellar hot 
+381::liked die 
+382::suffering 
+383::works 
+384::super lead 
+385::worth ready limited well afford sweet glorious good delicious dense 
+386::gorgeous excellent 
+387::great ready sweetness split 
+389::disappointed best good 
+390::disappointment 
+391::fortunately amazing great tender 
+392::ridiculous cute cold great punch sweet revelation enjoyed hype died 
+393::wow well well 
+394::satisfied consistent fried scrambled good good 
+396::bland pretty nice 
+397::awesome good 
+398::tolerable 
+401::ridiculous 
+403::good fairly love sticky sweet delicious sweet expensive bad 
+405::hot 
+406::infamous bless love 
+407::glad calm recommend 
+409::wild fresh raving worth 
+410::limited wow raving heaven fresh scramble enjoy 
+411::trauma crushed worth exciting indignity good 
+412::enough 
+413::hype disappointed fresh snob 
+414::love 
+415::right 
+416::best best 
+417::amazing love 
+418::good 
+419::glad 
+420::exceeded better delicious appreciated needless 
+421::shame scramble fall best jam recommend 
+422::warm sweet good sucked 
+424::perfect great liked 
+425::love perfect cry skinny 
+426::overrated right slow super slow 
+427::good grumpy 
+428::comfortable enough sadly top enough clean perfectly 
+431::worth 
+432::significant warm adamant enjoyed lovely lonesome pleasant 
+433::great hype fried complement 
+434::sweet good work heavenly good 
+436::good worth pretty good 
+437::loyal friendly fantastic rich generous 
+439::good 
+442::good 
+443::scrambled good fav twist fresh unfortunately liked fried great aloof best 
+444::well worth delicious good good envy 
+447::missed 
+449::pleased fresh smelled worth perfect favorite 
+450::best great work cheaper crowded 
+451::work logical bad great hell favorite 
+452::disappointed love lacked liked 
+453::stumbled fried 
+455::amazing best nasty 
+457::hot good awesome complex love 
+458::fantastic warm 
+459::good 
+463::sorry fat worth great fast reasonably silly 
+464::impress 
+466::good fried recommend 
+467::relaxed 
+469::good 
+470::fried genius warning enough sorely easy good nice right 
+471::impressed great 
+472::attentive balanced enjoy great enjoy 
+473::die better consistent death ruin great 
+474::friendly disgustingly 
+475::overpriced 
+476::mistake 
+477::worst 
+478::friendly perfect rich distinguished pretty rich delicious 
+479::trust delicious promised good perfect 
+480::issue efficient good 
+481::solid great great great worked 
+482::great wonderful friendly timely delicious top fantastic brave lacked outstanding delicious overwhelmingly fresh terrible 
+484::well amazing well love well lovely wow worth 
+485::amazing 
+486::romantic warm warm love heaven 
+487::wow nice dark 
+489::modern regret 
+490::appealing soft super attentive 
+492::hot fancy good good perfect right better 
+494::great fantastic adorable 
+495::confusion crowded amazing louder 
+496::love 
+497::perfect 
+498::dark great nice 
+499::adore favorite ease well 
+500::best unfortunate 
+501::enjoyed great 
+504::good good 
+505::floored interesting gripe stains stains 
+506::satisfying best 
+507::affordable good top liked memorable 
+508::inappropriate noises great perfectly fantastic 
+510::creative conveniently expensive eloquence keen playful ingenious clever celebrated 
+511::flare 
+512::top outstanding rewarding 
+513::love stronger soft 
+514::super friendly sweet 
+515::best perfect 
+516::hang great intimate impressed enough good isolation free 
+517::split refused bs refused horrible enjoyable 
+518::wrong right 
+520::pros great festive nice great 
+523::satisfying crowded tiring warmer good enjoy downside 
+524::cool super fun good 
+525::enough great ready 
+526::flounder delicious helpful love 
+528::freaking shame longingly clearly disappointment disappointment unable strangle bland merit clearly loose uncomfortable hefty illegal 
+529::better success fun friendly gifted appreciate loyalty great solid succeeds win 
+531::cool well love amazing cute pretty spacious 
+532::best good loud 
+533::brilliant amazing die favor 
+536::quiet good enjoy 
+538::chaos good refreshing fine enough impress 
+539::classic oasis absence better pleased delicious 
+541::love cold fresh 
+544::amazing well 
+545::good disappointed perfectly wonderful exceptionally good desert 
+546::super seasoned tough favorite 
+547::nice warm better 
+549::great great 
+550::best top clean 
+551::clearly lemon amazing amazing 
+552::well intimate outstanding clearly favorite beautiful 
+553::creative squash well soft excellent excellent friendly best quiet 
+554::recommendation bloody wicked good bad sweet miss neatly right fried 
+556::good top weird complaints bloody lie mistakes 
+557::crap frozen sloppy 
+559::fantastic fabulous recommendations great 
+561::nice loved love cheesy awesome wrong good 
+562::appealing knowledgeable good golden 
+563::fantastic good pretty decent good pricey likes 
+564::awesome friendly prompt worthy great 
+565::challenging good 
+566::amazing great 
+567::good 
+568::wrong interesting modern good great 
+569::great fatty doubt 
+570::delicious quiet clean warm 
+571::quaint 
+572::delicious cute good 
+573::friendly right 
+574::friendly great 
+576::friendly belligerent die right good 
+577::delicious best heavenly hot fantastic recommend 
+578::love pretty well worth friendly fresh great 
+579::hate amazing friendly good rival unfortunately excited 
+580::friendly fried authentic good knife appreciate 
+581::hype soapy confused 
+582::complain fine pains interesting bad works great favorite great tough travesty redeem better overbearing strangely bum 
+583::disappoint 
+584::lose cold 
+586::great 
+587::wow disappointment good worst issue bland pathetic waste 
+588::hate dark glad bad fine awkward 
+590::nice free 
+593::comfort 
+594::good good 
+595::loved hung incredible great comfy nice 
+596::pure complain fresh comfortable ruin enjoy 
+597::crack polite impressed spacious 
+598::unknown top shocked bad delicious leads considerate 
+599::magic energetic faster 
+600::death scrambled free hell difficult great overpriced 
+601::apocalypse delicious pretty 
+602::nice speedy good 
+603::incredible trust best 
+605::good pleased delicious good 
+606::notorious popular top best 
+608::best incredible winner worth 
+609::cute scrambled 
+610::bomb great 
+611::bother fantastic inventive 
+612::efficient smells awful 
+613::well 
+614::great consistently hot 
+615::best excellent best 
+616::good horrible hot sour sour enough 
+617::chill heaven golden amazing 
+618::love worst pain 
+619::loud 
+620::stumbled cold 
+621::energetic friendly 
+622::hilarious amazing best 
+623::issue gorgeous sweet worth nice 
+626::good liked great 
+627::love love holy favor great perfect 
+628::love hot damn good 
+629::pleasant great awesome good enjoyable good 
+630::fried amazing right bloody 
+631::delicious noise posh lively oddly 
+632::friendly 
+633::sticky nervous 
+634::appeal hospitable flares 
+635::disappointed delicious pan fried 
+636::snagged tender soft 
+637::unbelievably happy love 
+638::stew 
+640::good ready patience good worth 
+641::rude fried delicious worthy 
+642::right right sweet good best 
+643::fav tender interesting works squash 
+645::pretty good good bad worth 
+646::nice pretty rich good wonderful 
+647::fairly love delicious squash top superbly lie beautiful 
+648::crowded ample 
+649::best fried 
+652::overrated best incredible 
+653::warm jam pleased cold 
+654::great distract right 
+655::great fried friendly 
+656::die crack comfort better upscale polished 
+657::strictly fall solid hate punch spite angry suck believable work 
+658::upscale disappointing positive great 
+659::best 
+661::beautiful better better thoughtfulness 
+662::spectacular cute 
+663::good sore delicious perfectly 
+664::good intense 
+665::clean friendly lovely comfort squash fresh 
+666::wow fried nice complaints 
+667::nice delightful nice 
+668::classic 
+669::tickle 
+670::lost 
+671::authentic fresh miss 
+672::pretty favorite 
+673::fun delicious reasonable friendliness 
+674::nice decent cold warm warm glad 
+675::pan fried better beware worth 
+676::great good passion authentic entertain great 
+677::wonderful 
+678::impressed die delicious authentic 
+679::glad crowded interesting 
+680::beautiful wildly good 
+683::enjoyed great fragrant good solid overwhelmed beautifully perfect tough good bland loved 
+684::gem top good bad 
+685::delicious 
+686::delicious recommended 
+687::worst disgusting 
+689::excited fancy fried pan mistake favorite nice interesting strong bitter good 
+690::fave love pretentious great 
+692::mystery cute perfectly good 
+694::recommended intimate best great fall strong 
+695::twist concerns great good 
+697::intimate 
+698::best crazy perfectly thank glad 
+699::fool super clean 
+700::well interesting 
+701::fair soft perfect enough well exceptionally precise 
+702::twist 
+703::overrated swipe 
+705::delicious sweet safe 
+706::better 
+709::great disappointed love trust picky 
+710::love wrong 
+713::pretty hard nice 
+714::tired worth attentive good enough fried delicious top 
+715::glad popular 
+719::enjoyed good well attentive clean 
+721::butcher good well 
+722::fault nicely lovely amazing 
+723::bright colorful cute expensive holy flimsy sweet fatty 
+724::sorry hate 
+725::worth incredibly fresh wonderful sweet incredibly fresh excellent 
+726::pretty 
+727::consistently good flair 
+728::wonderful enjoyed fresh perfect fatty bland perfect friendly timely wonderful 
+729::pleasant right 
+730::best fantastic love comfortable creative consistent reasonable 
+731::favorite good great rude attentive 
+732::plentiful fresh friendly 
+733::good lead 
+734::best sensitive 
+735::amazing uncomfortable bitter incredibly amazing clean delicious pretty love comfort tender decadent boring perfect 
+736::saint fell love dim nice work great rough popular 
+737::loathing averse euphoria mistaken lied trust saint nicely phenomenal super crazy blame 
+738::delicious right perfectly soft easy steal 
+739::favorite neat spacious perfect 
+740::smelling liking liking appropriate warm unrelenting friendly 
+741::wow enough crazy amazing 
+742::limited 
+743::great great 
+746::friendly frozen fresh breaking ready bothered 
+747::superb pleasantly great smelled 
+750::positive tough feeble better better 
+751::hate fresh 
+757::mediocre best 
+758::exceptional smelt incredibly best 
+770::worst sick bad clearly dumped 
+773::good good love 
+782::free fried decent terrible bad 
+783::good disappointing fantastic great bother worth 
+791::top top excuse 
+793::fun 
+794::good 
+809::friendly 
+847::disgusting lacking decent great 
+854::beautiful great disappointing unfortunately good 
+856::great 
+873::top good 
+900::fatty perfectly warm confused better 
+923::super sweet 
+932::good cute great friendly fun wonder disappointing 
+937::warm 
+945::perfectly helpful best rude 
+949::great 
+988::sweet luck enough cool 
+991::yawn fried 
+1010::hot hot hot cold lukewarm split 
+1014::romantic disaster inevitable friendly rude nice filthy 
+1018::excellent beautifully dark 
+1020::favorable hot 
+1022::pretty bad nice expensive 
+1023::good 
+1028::well 
+1043::disappointed horrifying bad better horrifying 
+1056::cozy disappointment unbearable 
+1059::fresh ready 
+1075::pretty well 
+1088::inspiration nice worked enough bloody good 
+1089::dismissive snappy fast lousy 
+1097::addicting worth 
+1103::soft bothered advantage wonderful 
+1108::well well problem well remarkable cold cold 
+1118::bad 
+1120::thank 
+1122::incredibly impressed 
+1127::unfortunately better nice 
+1134::unfortunately available unfortunately bland free annoying free lost 
+1154::great good promise sweet fist 
+1158::attentive positive bad mushy better 
+1164::wrong 
+1171::inconvenience nice respectfully 
+1176::good pretty impressive 
+1179::good mistake cold 
+1198::bothered better heck bother 
+1203::lost better nice interesting hurt disappointment heaven sticky threat 
+1241::messed trouble 
+1243::adventurous burned grace punch fell 
+1258::fun slow quiet problem expensive assuring terrible 
+1263::spoiled lame inept 
+1279::cold 
+1287::worse bad friendly 
+1288::worse rude slow 
+1291::good 
+1292::expensive 
+1294::sadly disappointed excuse tender 
+1309::pleasant 
+1315::crowded nicely work excuse failed ridiculous good interesting 
+1316::well 
+1319::great fun better 
+1331::drain worst rude amazing pretty mediocre lack well 
+1353::mediocre desirable available 
+1358::happy pride pain worth kindly worked bland perfection unfortunately good satisfied hype good broke 
+1378::happy crisp pretty satisfied 
+1386::stellar excited confused good passion bland disliked unmoved lackluster complaints wrong frigid unpleasant willing hesitant generous friendly 
+1387::good 
+1389::appeal wrong pretty bizarre spectacular better good 
+1390::reasonable warm ruined bad bothered good dirty lacking disappointing 
+1392::decent 
+1406::cute bad 
+1414::impressed 
+1416::good good liked 
+1421::amazing nervous amazing nervously cheap boom thankful anxiety weird 
+1424::hardy 
+1425::bad 
+1429::best limitations good 
+1430::disappointed 
+1431::awesome pleasant amazing 
+1432::fat bad 
+1436::promised sweet bad excuse 
+1438::inconsistent tough good crappy 
+1443::hate good 
+1444::pretty good greatest hot good satisfied fresh aggressive hung 
+1462::nice right well bad 
+1463::amazing 
+1465::good 
+1501::worst joke stalls 
+1506::notably nice 
+1508::good 
+1522::classy great frigging 
+1523::loud nasty fried tender rude argumentative 
+1528::best blah 
+1533::great trendy bloody mediocre hated missed 
+1542::worthwhile dissatisfied worse unhappy 
+1546::boring better hate 
+1556::sad utterly wrong dirty exceptionally lousy works 
+1565::beautiful biting delicate bland nice concern complained rife 
+1571::stellar cheated dying hot trick 
+1579::hate best friendly clean sadly pan nice appreciated hot interesting love great 
+1616::idiot 
+1619::strong downhill pretty straightforward good crisp worse stale bad dull enthusiastically offender inappropriate unpleasant 
+1620::well 
+1629::best nice great well great best 
+1630::good enough best 
+1635::bad 
+1646::good mad 
+1658::nice unfortunate freaking shamelessly tacky stall expensive 
+1659::tired 
+1669::worked mediocre lifeless 
+1677::poor cramped disgusting greasy 
+1679::cleanliness 
+1694::unfortunately 
+1710::top 
+1711::dick lose ineffectual 
+1714::shake mediocre 
+1722::super super super dirt bless 
+1727::obnoxious nasty 
+1732::disappointing right free 
+1751::nice 
+1815::cold frustrated crime glory pretty hostility 
+1822::love good 
+1833::cheapest 
+1834::stellar 
+1836::pretty cozy 
+1868::cheaper ridiculous warned well reasonably 
+1887::worse sloppy better rotten 
+1894::bad 
+1905::best stuck overwhelming impressed hype 
+1913::lacked 
+1916::pains obnoxious right good amazing great great distinctive work 
+1932::modern modern good greatness lackluster 
+1953::cheap careless hot miss reasonable glowing 
+1980::top genuine positives wary messed overrated 
+1986::understandable horrible pride pan frozen 
+1995::failed weak utterly odd fault poor risk punish 
+2017::friendly 
+2038::delicious recommend 
+2056::dim boil 
+2063::fall great fresh soft fried good 
+2073::good disappointed better 
+2076::awful bad 
+2082::fine poorly strange delicious worth 
+2092::good expensive fun unpleasant 
+2112::awful crowded 
+2118::pretty good pretty well clean better hate 
+2119::impressed 
+2126::fell best favor 
+2137::nice fun success stupid great 
+2139::confusing tender best unprepared 
+2149::pretty great 
+2159::disappointing good cheaper 
+2162::expensive annoyed 
+2169::sorry fault miserable bad 
+2179::love overwhelmingly greatest attentive 
+2181::strict flawless miss mediocre amazing super good 
+2202::authentic worked 
+2206::fairly thank irritate damn amazing 
+2210::excited bad enough shit wrong liking drunk 
+2213::disappointment fine good 
+2215::uncomfortable safe difficult nice 
+2218::shit expensive hard 
+2229::right 
+2254::stupid ironically fuck 
+2279::messed overpriced right terrible heinous doubt 
+2289::pretty good fried crisp tender sweet well pretty good sweet pretty outstanding 
+2305::bad overpriced good 
+2324::inconsistent hard erratic 
+2329::top slower disappointment delicate 
+2342::liked dull nice lost unpleasant 
+2359::well enjoyed annoyed good good 
+2360::free enough fried 
+2384::hate super friendly trust fried fried bonus awful cheesy nice bad good 
+2388::better 
+2407::blunt amazing 
+2425::perfection disgusting crappy dead rude heck sorry 
+2426::sweet cold bland sad 
+2427::craziness 
+2462::fans well friendly problem sorry lovely 
+2478::friendly good excuse 
+2483::nice perfect bad bad bad 
+2513::sucks top better 
+2523::worst excuse upset faster mediocre 
+2527::miserable 
+2533::helpful 
+2534::better weak hot improve hard 
+2536::mediocre correct consistently disappointed 
+2537::better 
+2538::good better nice problem negative 
+2541::greasy 
+2563::good mediocre better bad 
+2568::disgusting sweet wild failed 
+2570::secure nicer unfortunately lacked 
+2596::good nice modern appreciate restricted lacking 
+2618::disappointed promising 
+2622::love good good 
+2630::nice great 
+2638::cold garbage tough cool pretty damn lucky cool bad 
+2646::falls good great fat pretty 
+2678::cute problem fancy lost sweetness silly 
+2683::loved crowded lemon lovely fine annoyed disliked complaint 
+2692::fried 
+2693::well bland good 
+2696::slow pretty enough 
+2701::difficult fat fat disappointing exciting horrible 
+2708::disgusting bad sober fried pretty good 
+2734::dumb good 
+2741::appreciate 
+2745::problem healthy disappointing right well fine work variety 
+2750::sad cold well 
+2753::disappointment soft cold disgusting fat 
+2783::top 
+2791::disappointed weird well 
+2794::cute great lead nice 
+2814::funny 
+2822::problem pretty lack 
+2833::nice cute poor 
+2862::pros nice noisy good mashed 
+2865::fried fast fast good bad frustrating limited slow 
+2877::bad blow rich great fresh friendly 
+2878::bland lifeless 
+2887::fast strangely top 
+2892::great safe consistent scolding expensive 
+2894::worth dripping nice 
+2898::impossible nice horrible noise shortage good nice 
+2904::good 
+2913::criminal bleeding pretty 
+2924::delay limited worth recommend 
+2935::disappointed bland creative good fun free nice 
+2936::hate good recommend 
+2937::free thank goodness better 
+2957::strike slow worth careless 
+2971::horrible authentic recommend 
+2976::lukewarm disappointment good hot overpriced 
+2981::good bad 
+3002::fell bad glad poor loud 
+3004::disappointment 
+3010::bias enjoyable cold inexperienced best bother recommendations odd loud work advantage better 
+3058::terrible shit horrendous fresh 
+3066::awesome atrocious 
+3077::nice 
+3078::perfectly 
+3079::dumped horrendous 
+3088::terrible 
+3101::overpriced indignant 
+3103::worked authentic authentic best fresh bad fried lacks authentic authentic 
+3123::disappointed ranted excited skinny rude good disgusted love disgusting delicious better waste 
+3127::ridiculous poor hurtful frustrated lose 
+3130::absurd better willing drunk decency split jealous 
+3139::breaks top hate enjoy clearly good freak 
+3141::lackluster confused 
+3142::horrible discrimination waste 
+3151::pretentious horrible right rude sorry 
+3152::failed bright interruption limp best ridiculous 
+3153::enjoyed loved dirty dirt disgusting 
+3159::comfort trendy 
+3160::good adequate wrong 
+3162::slow good 
+3164::superior 
+3165::disappointed 
+3167::great reputation bland slow well 
+3196::desiccated pretty good disappointing 
+3209::disgusting 
+3215::terrible slow crowded important dirty smell 
+3228::good 
+3237::fall cheap better 
+3269::top bad 
+3282::decent best mediocre seasoned complaint mediocre good 
+3289::nice dirty sick great wrong pretty prefer good 
+3339::disgusted rude issues difficulty refused good lemon 
+3349::messed bad drag expensive expensive cool 
+3373::terrible free 
+3405::good bad mad 
+3406::apathetic 
+3471::disappointed grossly properly good lucky 
+3476::enough amaze loved nice sweetness unappealing interesting pretty boring 
+3484::wrong overrated 
+3503::greasy 
+3521::complimentary peach complimentary reasonable worth sloppy 
+3528::delicious better good 
+3529::crowded faint fine eager fresh suck fast poor bother 
+3530::top pretty complimentary bloody decent roomy quiet damn 
+3532::nice good 
+3540::pretty good nice easy super worth 
+3546::decent 
+3577::wrath mediocre hard silly 
+3581::seasoned complicated better nice 
+3604::awkward crumpled cheaper hard worth decent gimmicky 
+3622::impressed horrible willing 
+3623::good problem good 
+3629::oddly hype mediocre good friendly 
+3639::ridiculous 
+3640::beautiful work liked fuck sucked easy nice good 
+3650::downer liked 
+3654::cheaper better 
+3670::good unfortunately poorly 
+3671::worse bad 
+3677::better good greasy fatty nice good 
+3699::horrific disgusting mess worth better 
+3700::crap good good 
+3702::dark strong slow keen lazy sweet deceptively cool 
+3707::sad 
+3708::good fine fine cool 
+3712::conveniently cozy exciting pretty well impress best bad amazing cute 
+3718::enjoys attractive 
+3720::good clearly downhill 
+3735::aloof efficient harried mediocre efficiently bothered scolded attentive disappointment good disappointed shake passion great 
+3794::great angry pathetic best 
+3803::entertaining 
+3817::worst adequate approval fine refuse advantage attentive rich 
+3848::overrated well overpriced worth 
+3855::top sensation regret regrets 
+3862::indulgence drippy shake 
+3866::sadly waste scary greatest 
+3867::great lack 
+3873::wrong moron dump scratch bad mistake 
+3876::amuse nice punch pretty wild pretty disappointed warm worth wonderful important important fantastic nice fresh concise good annoying wrong negligence 
+3882::inconsiderate flagging complimentary nicer 
+3885::beautiful beautiful bother 
+3892::enjoying failed grace 
+3896::fun good hard better 
+3906::good mediocre affordable cute well 
+3907::unattractive friendly uncomfortable 
+3912::inconsistent 
+3923::tired good 
+3927::fresh beautiful helpful uncomfortable 
+3935::great comfortable 
+3951::worth better 
+3967::excellent bad enjoy 
+3968::shabby dripping 
+3972::issue disappointing 
+3982::great colorful bloody delicious good great good peeled 
+3984::good bland nice 
+3996::rude 
+3997::revolting right love worse 
+3998::best quiet 
+4016::good cold good 
+4018::right frozen 
+4019::disappointing right waste 
+4022::annoyingly best misreading well cold worked 
+4024::freak mediocre slow good 
+4034::disappointed striving chic good cry wrong rude 
+4039::noise lacking good 
+4047::cramped good 
+4049::disapointed great great great deception hung 
+4077::fried fresh good pretty disappointing 
+4091::cute nicely fond interesting cold clean sadly good fiasco 
+4102::cold classy downhill 
+4160::bad 
+4169::fun enough great enjoy free fun unfortunate mistake 
+4179::wrong 
+4237::disappointed hard good 
+4285::expensive 
+4299::best hesitant goodness dumped spectacular better breaking 
