@@ -4,12 +4,13 @@
 
 In order to get the overall accuracy results in Explanation_Accuracy folder  for explanation_analysis.py file the following coommands need to be run:
 
-
 python explanation_analysis.py review # for the Yel Hotel review data
 
 python explanation_analysis.py topic # for the 20NewsGroup data
 
 python explanation_analysis.py tweet #  for the Covid-19 Tweet data
+
+
 
 
 
