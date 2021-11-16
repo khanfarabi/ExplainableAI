@@ -1,0 +1,9 @@
+Review_ID,Truly_Predicted_Class,Original_Text,Explanation,Label1,Label2,Label3
+7,Positive,came absolutely loved chose also reservation requested next dinner bar good gave us lot good oil go bacalao garlic sauce good try try recommend ,also lot came go gave ,1,1,1
+20,Negative,classic years keep customer family rule love however gone opinion service longer steak grab visit tag evolved time ,gone steak family years love ,1,1,1
+1,Positive,good basic tons quickly come done felt toast eggs menu place time highly yummy ,eggs good quickly time felt ,0,0,1
+4,Negative,understand location burritos chips thick blob fresh salsa maybe try seems folks street ,street maybe fresh try blob ,1,1,1
+13,Positive,might asparagus enough cheese tasty dancers musicians liked attention atmosphere intimate ,cheese enough might attention atmosphere ,0,0,1
+23,Negative,understand anyone philly cheesesteak guess tried flavor even fries mention way one window sense star review reward ,tried one way star sense ,1,1,1
+5,Positive,meals family inside chinese price style mis categorized style confused delicious thought translate menu sounds typical think hoping will encourage familiar small complaint handling owner presume etc definitely recommend trying ,will think price family encourage ,1,1,1
+27,Negative,say crack least guess miracles window wait detract half extreme eagerness finally great measly barely sandwich freezer true hype ,detract freezer crack eagerness true ,1,1,1
