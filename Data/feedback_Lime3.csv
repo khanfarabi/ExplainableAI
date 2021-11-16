@@ -1,7 +1,0 @@
-Review_ID,Truly_Predicted_Class,Original_Text,Explanation,Label1,Label2,Label3
-1,Positive,good basic tons quickly come done felt toast eggs menu place time highly yummy ,eggs good quickly time felt ,1,1,1
-23,Negative,understand anyone philly cheesesteak guess tried flavor even fries mention way one window sense star review reward ,tried one way star sense ,1,1,1
-2,Positive,odd quality now time right owns passyunk high qualityingredients cooking pastries match stick bacon egg done center dining nerves word used suffice toast chucks breakfast fare streamlined want slightly carb midday city ,egg word passyunk stick breakfast ,0,0,1
-4,Negative,understand location burritos chips thick blob fresh salsa maybe try seems folks street ,street maybe fresh try blob ,1,1,1
-6,Positive,north haven hands dining spacious meals mexican roll szechuan spring rolls pass make ever boil saturday well night saw doctor ,well rolls make roll saturday ,0,0,1
-22,Negative,tried nobody thing bus ways cab far historical lots bread ok ,tried lots bread far ok ,1,1,1
