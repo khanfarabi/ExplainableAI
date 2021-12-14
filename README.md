@@ -39,9 +39,7 @@ for explanations.py file in Explanation_visualization folder :
             
             
             
-  The relational explanation in the following describes that the query 150 is connected to most of the queries that are also in same class Positive, 
-  and therefore the percentage of weights of these connected queries is high.
-  
+  The relational explanation describes the influence of relationships that the predicted instance shares with other instances. The relative influence of relationships between the predicted instance and other instances (of positive and negative classes) is shown below.
   
   ![image](https://user-images.githubusercontent.com/25291998/139793091-96167b4b-6f0d-4750-a76d-3c40b6482aaf.png)
 
